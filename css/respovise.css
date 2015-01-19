@@ -3,11 +3,13 @@
 		width: 1000px;
 		margin: 0 auto;
 	}
+	
+}
+@media(min-width: 1400px){
 	.header {
 		top: 25%;
 	}
 }
-
 @media(max-width: 360px){
 	header {
 		min-height: 300px;

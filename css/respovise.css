@@ -1,0 +1,32 @@
+@media(min-width: 1000px){
+	.container {
+		width: 1000px;
+		margin: 0 auto;
+	}
+
+}
+
+@media(max-width: 360px){
+	header {
+		min-height: 300px;
+		background-position: 100% -210px;
+	}
+	.header {
+		top: 15%;
+	}
+	nav {
+		margin: 20px auto;
+	}
+	p{
+		font-size: 21px;
+		line-height: 28px;
+		font-weight: 300;
+	}
+	.title {
+		font-size: 29px;
+	}
+	.half{
+		width: 100%;
+		line-height: 21px;
+	}
+}

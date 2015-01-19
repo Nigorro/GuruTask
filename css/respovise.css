@@ -3,7 +3,9 @@
 		width: 1000px;
 		margin: 0 auto;
 	}
-
+	.header {
+		top: 25%;
+	}
 }
 
 @media(max-width: 360px){
